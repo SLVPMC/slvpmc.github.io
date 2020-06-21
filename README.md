@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# SLVP v2 Homepage
 
-You can use the [editor on GitHub](https://github.com/SLVPMC/slvpmc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome.    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Longstanding Membership
 
-### Markdown
+This section will cover longstanding membership and what it means in the context of SLVP. A longstanding member is a person who has been active on a server previously owned or staffed by Ash or Isaac.    
+    
+This section will go through every potential case.    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CubeBuilders    
 
-```markdown
-Syntax highlighted code block
+Longstanding membership can be earned by playing on CubeBuilders, where you must have amassed a total ontime of at least 5 hours BEFORE April 1, 2020. Alternatively, you can gain longstanding membership by having at least 3 days of ontime SINCE April 1, 2020.     
+    
+### SLVP v1    
+    
+Any member of SLVP v1 who was on the staff team prior to October 10, 2016 automatically gains longstanding membership.
 
-# Header 1
-## Header 2
-### Header 3
+### Factionopolis    
+    
+Factionopolis players do not automatically gain longstanding membership.    
 
-- Bulleted
-- List
+### KnightsMC    
 
-1. Numbered
-2. List
+KnightsMC members who appeared in a video title for SirLovesPikachu are eligible for longstanding membership.    
 
-**Bold** and _Italic_ and `Code` text
+### DanG MC (KaiMC)    
 
-[Link](url) and ![Image](src)
-```
+Members of DanG who gained the "Active" tag (formerly "Trusted") or higher and contributed at least 1 building to Anvers are eligible for longstanding membership.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Ash-Owned Realms
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SLVPMC/slvpmc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Any player who has been added to a realm ran by Ash at any point and amassed more than one hour of ontime is eligible for longstanding membership.
